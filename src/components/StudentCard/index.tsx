@@ -2,11 +2,10 @@ import { FC, useState } from 'react';
 import { useDispatch } from 'react-redux';
 import styled from 'styled-components';
 import Typography from '@material-ui/core/Typography';
-import { Collapse } from '@material-ui/core';
+import { Collapse, Button } from '@material-ui/core';
 
 import { addTag, StudentState } from '../../features/students/studentsSlice';
 import { CssTextField } from '../../pages/home';
-import { Button } from '@material-ui/core';
 
 const StudentCard: FC<StudentState> = ({
   city,
