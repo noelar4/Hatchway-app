@@ -1,6 +1,6 @@
 # Getting Started with Hatchway-Frontend
 
-Visit [https://hatchway-frontend.netlify.app/](https://hatchway-frontend.netlify.app/) to see the site in action
+Visit [https://hatchway-app.netlify.app](https://hatchway-app.netlify.app) to see the site in action
 
 ![img1](https://user-images.githubusercontent.com/56167468/132265021-b72d0e95-e9dd-4c6f-8a07-a3671366a40d.png)
 
